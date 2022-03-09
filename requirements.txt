@@ -1,0 +1,10 @@
+beautifulsoup
+requests
+json
+pandas
+numpy
+time
+statsmodel
+sklearn
+seaborn
+matplotlib
